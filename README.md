@@ -1,4 +1,4 @@
-[!UML Class](/IndividualProjectProposal.png)
+[!UML Class](IndividualProjectProposal.png)
 
 
 ## Abstract
@@ -7,7 +7,8 @@ It does so by being able to install and manage packages and dependencies. This h
 for developers to get code that may already solve a problem they encounter. It enables a faster download of packages
 and helps to remove security vulnerabilities using npm package installer. It also helps to make a more readable 
 information when downloading a package. One way it enhances speed is by using an offline cache. It stores the package
-so when installing or updating the package it can utilize this cache.
+so when installing or updating the package it can utilize this cache. It helps to make packages and dependencies
+easier to manage for developers so they can spend less time dealing with issues that pertain to these packages.
 
 
 ## Relevance
@@ -16,7 +17,7 @@ you will likely either be using npm or yarn for packages. This specific open sou
 to beginners and contributors. If you look at the contributors, it is pretty diverse in the amount of contributors 
 and the amount they have contributed. Furthermore, they are good at listing the opportunities for first timers to 
 get involved. It's also not an overly large project, making it easier for someone to understand the repository
-and contribute.
+and contribute. The contributor environment also is very open to new contributors, offering support and guidance.
 
 
 ## Design and Contributions
@@ -26,7 +27,8 @@ a feel for a repository or project you aren't familiar with takes some time. How
 that will allow for a first time contributor to get up to date with the repo while still contributing. There are 
 things such as trailing backslash breaks workspace features. After becoming more familiar with the project,
 it would be possible to add more features. One such example would be having *yarn list* list the dependencies
-of the current package, not all the packages within the workspace.
+of the current package, not all the packages within the workspace. There are many issues that fall under the 
+"good first issue" category, making it available for first time contributors to help out.
 
 
 ## Build and URL
