@@ -1,4 +1,4 @@
-[!UML Class](IndividualProjectProposal.png)
+[!UML Class](/IndividualProjectProposal.png)
 
 
 ## Abstract
